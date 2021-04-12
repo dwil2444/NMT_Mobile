@@ -198,3 +198,7 @@ docs/source/changelog.md
 .data/
 
 Sequence to Sequence Learning with Neural Networks.pdf
+
+nmt_torch.ipynb
+data.zip
+data/
