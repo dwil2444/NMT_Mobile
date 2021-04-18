@@ -204,3 +204,9 @@ data.zip
 data/
 
 lit/
+
+
+# weight files
+encoder.pth 
+decoder.pth 
+
