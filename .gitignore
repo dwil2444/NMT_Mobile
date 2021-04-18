@@ -202,3 +202,11 @@ Sequence to Sequence Learning with Neural Networks.pdf
 nmt_torch.ipynb
 data.zip
 data/
+
+lit/
+
+
+# weight files
+encoder.pth 
+decoder.pth 
+
