@@ -207,6 +207,6 @@ lit/
 
 
 # weight files
-encoder.pth 
-decoder.pth 
+#encoder.pth
+#decoder.pth
 
